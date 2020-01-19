@@ -10,8 +10,7 @@ import 'card_event.dart';
 
 
 class CardBloc extends Bloc<CardEvent, CardState> {
-  BarCodeItem _barCodeItem;
-  CardDao _cardDao = CardDao();
+   CardDao _cardDao = CardDao();
   @override
   CardState get initialState => CardLoading();
 

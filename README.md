@@ -1,7 +1,7 @@
 # simple_carder
 
 A new Flutter project.
-
+<img src="screenshots/Screenshot.png" width="300" alt="screeenshot">
 ## Getting Started
 
 This project is a starting point for a Flutter application.
